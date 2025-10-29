@@ -1,6 +1,6 @@
 ## Cheguei :fire:
 
-<p>Tudo tem um começo, que essa fagulha se torne uma chama. </p>
+<p>Tudo tem um começo que essa fagulha se torne uma chama. </p>
 <p>Me chamo Bruno no começo de uma caminhada para se tornar um Programdor front-End em  breve Back-end e finalmente Full-stack.</p>
 Aprendendo:
 <br><br>
