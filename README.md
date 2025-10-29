@@ -1,6 +1,6 @@
 ## Cheguei :fire:
 
-<p>Me chamo Bruno no começo de uma caminhada para se tornar um Programdor front-End em  breve Back-end e finalmente Full-stack.</p>
+<p>Me chamo Bruno no começo de uma caminhada para se tornar um Programador front-End em  breve Back-end e finalmente Full-stack.</p>
 Aprendendo:
 <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"alt=html-logo/>
