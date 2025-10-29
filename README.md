@@ -9,7 +9,13 @@ Aprendendo:
 <br><br>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"alt=hmtl-logo/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"alt=react-logo/>
- De tag em tag :boom::boom::boom::boom:
+ <br>
+
+De tag em tag :boom::boom::boom::boom:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-oliveira&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-oliveira&size_weight=0.5&count_weight=0.5)
   
 <!--
 **oliveirabrunocarlos90-collab/oliveirabrunocarlos90-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
